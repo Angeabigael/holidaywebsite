@@ -1,0 +1,12 @@
+.nav-item a:hover{
+    border-bottom: 5px solid white;
+    padding-bottom: 5px;
+}
+span{
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: green;
+    float: left;
+}
+
